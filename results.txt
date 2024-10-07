@@ -1,0 +1,11 @@
+Hello, World! pattern: 2, processes: 5
+Process 1 (PID 79924) created by parent PID 79923.
+Hello, World! pattern: 2, processes: 5
+Process 2 (PID 79925) created by parent PID 79923.
+Hello, World! pattern: 2, processes: 5
+Process 3 (PID 79926) created by parent PID 79923.
+Hello, World! pattern: 2, processes: 5
+Process 4 (PID 79927) created by parent PID 79923.
+Hello, World! pattern: 2, processes: 5
+Process 5 (PID 79928) created by parent PID 79923.
+Hello, World! pattern: 2, processes: 5
